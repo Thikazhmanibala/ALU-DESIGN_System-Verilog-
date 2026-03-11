@@ -190,7 +190,8 @@ endmodule
 
 The simulation is carried out using ModelSim 2020.1.
 
-(Insert waveform screenshot here after running simulation in ModelSim)
+<img width="1256" height="701" alt="image" src="https://github.com/user-attachments/assets/9cec70f3-066a-4a1c-a927-9af1b0ea6746" />
+
 
 ---
 
